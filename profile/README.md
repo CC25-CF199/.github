@@ -4,7 +4,7 @@
   <h2 style="margin-top: 0; color: #2e7d32; font-size: 2rem; font-weight: bold; text-shadow: 1px 1px 6px #b2dfdb; letter-spacing: 1px;">BurnAlyze: Smart Detection and Classification of Skin Burns</h2>
 </div>
 
-# About this project 
+# About this project 🚑🔥
 
 BurnAlyze adalah aplikasi web berbasis AI untuk menganalisis derajat luka bakar secara cepat dan tepat, serta memberikan panduan pertolongan pertama yang tepat, dapat diakses kapan pun dan oleh siapa pun. Melalui fitur unggulan "Deteksi Luka", pengguna dapat mengunggah foto luka bakar dan secara otomatis memperoleh informasi klasifikasi, pertolongan pertama, hingga inspirasi pemanfaatan kreatif dari sampah tersebut.
 
