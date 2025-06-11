@@ -6,7 +6,7 @@
 
 # About this project 🚑🔥
 
-BurnAlyze adalah aplikasi web berbasis AI untuk menganalisis derajat luka bakar secara cepat dan tepat, serta memberikan panduan pertolongan pertama yang tepat, dapat diakses kapan pun dan oleh siapa pun. Melalui fitur unggulan "Deteksi Luka", pengguna dapat mengunggah foto luka bakar dan secara otomatis memperoleh informasi klasifikasi, pertolongan pertama, hingga inspirasi pemanfaatan kreatif dari sampah tersebut.
+BurnAlyze adalah aplikasi web berbasis AI inovatif untuk membantu menganalisis derajat luka bakar secara cepat dan tepat, serta memberikan panduan pertolongan pertama yang tepat, dapat diakses kapan pun dan oleh siapa pun. Melalui fitur unggulan "Deteksi Luka", pengguna dapat mengunggah foto luka bakar dan secara otomatis memperoleh informasi klasifikasi, pertolongan pertama, hingga inspirasi pemanfaatan kreatif dari sampah tersebut.
 
 # Team Member - CC25-CF199
 
